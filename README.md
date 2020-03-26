@@ -1,2 +1,2 @@
 # Lab1_Juegos
-Eduardo Ramírez Herrera 19946
+Eduardo Ramírez Herrera #19946
